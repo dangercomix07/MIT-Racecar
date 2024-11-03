@@ -1,0 +1,2 @@
+racecar/ackermann_cmd_mux:racecar/racecar:racecar_gazebo/racecar_control:racecar_gazebo/racecar_description:racecar_gazebo/racecar_gazebo:sc649_assignment_3
+-DCATKIN_DEVEL_PREFIX=/home/ameya/racecar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ameya/racecar_ws/install -G Unix Makefiles

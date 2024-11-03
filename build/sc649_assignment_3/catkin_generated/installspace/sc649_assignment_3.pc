@@ -1,0 +1,8 @@
+prefix=/home/ameya/racecar_ws/install
+
+Name: sc649_assignment_3
+Description: Description of sc649_assignment_3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
